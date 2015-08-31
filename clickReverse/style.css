@@ -1,0 +1,9 @@
+.square {
+    background-color: red;
+    height: 20px;
+    width: 20px;
+}
+
+.square.top-row, .square.bottom-row {
+    display: inline;
+}
